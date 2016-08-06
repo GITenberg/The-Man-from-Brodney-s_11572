@@ -1,0 +1,36 @@
+_repo: The-Man-from-Brodney-s_11572
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fisher, Harrison
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '25149'
+    url: http://www.gutenberg.org/2009/agents/25149
+creator:
+  author:
+    agent_name: McCutcheon, George Barr
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '1555'
+    url: http://www.gutenberg.org/2009/agents/1555
+    wikipedia: http://en.wikipedia.org/wiki/George_Barr_McCutcheon
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Islands -- Fiction'
+- GITenberg
+title: The Man from Brodney's
+url: http://www.gutenberg.org/ebooks/11572
