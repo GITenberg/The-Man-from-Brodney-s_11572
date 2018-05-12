@@ -1,5 +1,5 @@
 _repo: The-Man-from-Brodney-s_11572
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Fisher, Harrison
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1934
     gutenberg_agent_id: '25149'
     url: http://www.gutenberg.org/2009/agents/25149
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: McCutcheon, George Barr
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1555
     wikipedia: http://en.wikipedia.org/wiki/George_Barr_McCutcheon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11572#The-Man-from-Brodney-s
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
